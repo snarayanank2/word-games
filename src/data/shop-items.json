@@ -1,0 +1,200 @@
+{
+  "themes": [
+    {
+      "id": "classic",
+      "name": "Classic",
+      "cost": 0,
+      "description": "NYT-style warm white, dark text, green/yellow tiles",
+      "cssVars": {
+        "--bg": "#F6F6F2",
+        "--bg-secondary": "#FFFFFF",
+        "--text": "#1A1A1A",
+        "--text-secondary": "#787C7E",
+        "--border": "#D3D6DA",
+        "--tile-correct": "#6AAA64",
+        "--tile-present": "#C9B458",
+        "--tile-absent": "#787C7E",
+        "--tile-empty-bg": "#FFFFFF",
+        "--tile-empty-border": "#D3D6DA",
+        "--key-bg": "#D3D6DA",
+        "--key-text": "#1A1A1A",
+        "--accent": "#1A1A1A",
+        "--accent-text": "#FFFFFF",
+        "--card-shadow": "0 2px 8px rgba(0,0,0,0.08)"
+      }
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean",
+      "cost": 200,
+      "description": "Soft blues, teal accents, wave-inspired tile animations",
+      "cssVars": {
+        "--bg": "#E8F4F8",
+        "--bg-secondary": "#FFFFFF",
+        "--text": "#0D3B52",
+        "--text-secondary": "#4A8FA8",
+        "--border": "#A8D5E8",
+        "--tile-correct": "#2E9E8A",
+        "--tile-present": "#F0A500",
+        "--tile-absent": "#7BA8BA",
+        "--tile-empty-bg": "#FFFFFF",
+        "--tile-empty-border": "#A8D5E8",
+        "--key-bg": "#B8DCE8",
+        "--key-text": "#0D3B52",
+        "--accent": "#0D7EA0",
+        "--accent-text": "#FFFFFF",
+        "--card-shadow": "0 2px 12px rgba(13,59,82,0.12)"
+      }
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "cost": 200,
+      "description": "Warm oranges and pinks, golden highlights",
+      "cssVars": {
+        "--bg": "#FFF5EE",
+        "--bg-secondary": "#FFFFFF",
+        "--text": "#4A1A00",
+        "--text-secondary": "#C05A20",
+        "--border": "#FFCCA0",
+        "--tile-correct": "#E8763A",
+        "--tile-present": "#F0D060",
+        "--tile-absent": "#C08870",
+        "--tile-empty-bg": "#FFFFFF",
+        "--tile-empty-border": "#FFCCA0",
+        "--key-bg": "#FFD4A8",
+        "--key-text": "#4A1A00",
+        "--accent": "#D04820",
+        "--accent-text": "#FFFFFF",
+        "--card-shadow": "0 2px 12px rgba(74,26,0,0.10)"
+      }
+    },
+    {
+      "id": "forest",
+      "name": "Forest",
+      "cost": 300,
+      "description": "Deep greens, earthy browns, leaf motifs",
+      "cssVars": {
+        "--bg": "#EDF4EC",
+        "--bg-secondary": "#FFFFFF",
+        "--text": "#1A3020",
+        "--text-secondary": "#4A7050",
+        "--border": "#A8CCA8",
+        "--tile-correct": "#3A7A3A",
+        "--tile-present": "#A08A30",
+        "--tile-absent": "#6A8A6A",
+        "--tile-empty-bg": "#FFFFFF",
+        "--tile-empty-border": "#A8CCA8",
+        "--key-bg": "#B8D8B8",
+        "--key-text": "#1A3020",
+        "--accent": "#2A5A2A",
+        "--accent-text": "#FFFFFF",
+        "--card-shadow": "0 2px 12px rgba(26,48,32,0.12)"
+      }
+    },
+    {
+      "id": "galaxy",
+      "name": "Galaxy",
+      "cost": 500,
+      "description": "Dark mode, purple/blue gradients, star particle effects",
+      "cssVars": {
+        "--bg": "#0D0D1A",
+        "--bg-secondary": "#1A1A2E",
+        "--text": "#E8E8FF",
+        "--text-secondary": "#8080C0",
+        "--border": "#3A3A6A",
+        "--tile-correct": "#6040D0",
+        "--tile-present": "#A040A0",
+        "--tile-absent": "#3A3A5A",
+        "--tile-empty-bg": "#1A1A2E",
+        "--tile-empty-border": "#3A3A6A",
+        "--key-bg": "#2A2A4A",
+        "--key-text": "#E8E8FF",
+        "--accent": "#7060E0",
+        "--accent-text": "#FFFFFF",
+        "--card-shadow": "0 2px 16px rgba(112,96,224,0.25)"
+      }
+    },
+    {
+      "id": "candy",
+      "name": "Candy",
+      "cost": 500,
+      "description": "Pastel pinks, purples, playful rounded tiles",
+      "cssVars": {
+        "--bg": "#FFF0F8",
+        "--bg-secondary": "#FFFFFF",
+        "--text": "#4A104A",
+        "--text-secondary": "#A050A0",
+        "--border": "#F0A8E0",
+        "--tile-correct": "#D060B0",
+        "--tile-present": "#F0A030",
+        "--tile-absent": "#C080C0",
+        "--tile-empty-bg": "#FFFFFF",
+        "--tile-empty-border": "#F0A8E0",
+        "--key-bg": "#F8C8F0",
+        "--key-text": "#4A104A",
+        "--accent": "#C030A0",
+        "--accent-text": "#FFFFFF",
+        "--card-shadow": "0 2px 12px rgba(192,48,160,0.15)"
+      }
+    },
+    {
+      "id": "retro",
+      "name": "Retro",
+      "cost": 800,
+      "description": "Pixel-art style, 8-bit color palette, chunky fonts",
+      "cssVars": {
+        "--bg": "#C8C8A0",
+        "--bg-secondary": "#E8E8C0",
+        "--text": "#1A1A00",
+        "--text-secondary": "#484800",
+        "--border": "#484800",
+        "--tile-correct": "#00A800",
+        "--tile-present": "#A8A800",
+        "--tile-absent": "#484848",
+        "--tile-empty-bg": "#E8E8C0",
+        "--tile-empty-border": "#484800",
+        "--key-bg": "#B0B080",
+        "--key-text": "#1A1A00",
+        "--accent": "#0000A8",
+        "--accent-text": "#FFFFFF",
+        "--card-shadow": "4px 4px 0px #484800"
+      }
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "cost": 1000,
+      "description": "Animated color cycling on solved tiles",
+      "cssVars": {
+        "--bg": "#F8F8FF",
+        "--bg-secondary": "#FFFFFF",
+        "--text": "#1A1A1A",
+        "--text-secondary": "#606060",
+        "--border": "#D0D0D0",
+        "--tile-correct": "#6AAA64",
+        "--tile-present": "#C9B458",
+        "--tile-absent": "#787C7E",
+        "--tile-empty-bg": "#FFFFFF",
+        "--tile-empty-border": "#D3D6DA",
+        "--key-bg": "#D3D6DA",
+        "--key-text": "#1A1A1A",
+        "--accent": "#1A1A1A",
+        "--accent-text": "#FFFFFF",
+        "--card-shadow": "0 2px 8px rgba(0,0,0,0.08)"
+      }
+    }
+  ],
+  "avatars": [
+    { "id": "smiley", "emoji": "😊", "name": "Smiley", "cost": 0 },
+    { "id": "fox", "emoji": "🦊", "name": "Fox", "cost": 150 },
+    { "id": "cat", "emoji": "🐱", "name": "Cat", "cost": 150 },
+    { "id": "owl", "emoji": "🦉", "name": "Owl", "cost": 200 },
+    { "id": "butterfly", "emoji": "🦋", "name": "Butterfly", "cost": 200 },
+    { "id": "dolphin", "emoji": "🐬", "name": "Dolphin", "cost": 300 },
+    { "id": "unicorn", "emoji": "🦄", "name": "Unicorn", "cost": 500 },
+    { "id": "dragon", "emoji": "🐉", "name": "Dragon", "cost": 800 },
+    { "id": "trophy", "emoji": "🏆", "name": "Trophy", "cost": 1500, "unlockCondition": "all-wordle" },
+    { "id": "crown", "emoji": "👑", "name": "Crown", "cost": 3000, "unlockCondition": "all-puzzles" }
+  ]
+}

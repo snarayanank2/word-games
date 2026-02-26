@@ -1,0 +1,2882 @@
+[
+  {
+    "id": 1,
+    "puzzleIndex": 1,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "B",
+        "B",
+        "O",
+        "T"
+      ],
+      [
+        "M",
+        "#",
+        "R",
+        "#",
+        "R"
+      ],
+      [
+        "A",
+        "B",
+        "I",
+        "D",
+        "E"
+      ],
+      [
+        "Z",
+        "#",
+        "N",
+        "#",
+        "A"
+      ],
+      [
+        "E",
+        "I",
+        "G",
+        "H",
+        "T"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Head of a monastery",
+          "answer": "ABBOT",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "To tolerate or follow rules",
+          "answer": "ABIDE",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "The number after seven",
+          "answer": "EIGHT",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To astonish or surprise",
+          "answer": "AMAZE",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "To carry here",
+          "answer": "BRING",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A special snack or reward",
+          "answer": "TREAT",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "puzzleIndex": 2,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "B",
+        "Y",
+        "S",
+        "S"
+      ],
+      [
+        "D",
+        "#",
+        "E",
+        "#",
+        "E"
+      ],
+      [
+        "A",
+        "D",
+        "A",
+        "G",
+        "E"
+      ],
+      [
+        "P",
+        "#",
+        "R",
+        "#",
+        "D"
+      ],
+      [
+        "T",
+        "A",
+        "N",
+        "G",
+        "Y"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A very deep, dark chasm",
+          "answer": "ABYSS",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "An old wise saying",
+          "answer": "ADAGE",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "Sharp and zesty in flavor",
+          "answer": "TANGY",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To change to fit a new situation",
+          "answer": "ADAPT",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "To long for something",
+          "answer": "YEARN",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Shabby or run-down",
+          "answer": "SEEDY",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "puzzleIndex": 3,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "C",
+        "H",
+        "E",
+        "D"
+      ],
+      [
+        "L",
+        "#",
+        "O",
+        "#",
+        "O"
+      ],
+      [
+        "B",
+        "Y",
+        "L",
+        "A",
+        "W"
+      ],
+      [
+        "U",
+        "#",
+        "D",
+        "#",
+        "R"
+      ],
+      [
+        "M",
+        "U",
+        "S",
+        "T",
+        "Y"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Felt a dull pain",
+          "answer": "ACHED",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A local rule or regulation",
+          "answer": "BYLAW",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "Having a stale, damp smell",
+          "answer": "MUSTY",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A collection of photos or music",
+          "answer": "ALBUM",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "Grips or contains",
+          "answer": "HOLDS",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Gifts brought to a marriage",
+          "answer": "DOWRY",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "puzzleIndex": 4,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "C",
+        "O",
+        "R",
+        "N"
+      ],
+      [
+        "R",
+        "#",
+        "Z",
+        "#",
+        "I"
+      ],
+      [
+        "D",
+        "R",
+        "O",
+        "O",
+        "P"
+      ],
+      [
+        "O",
+        "#",
+        "N",
+        "#",
+        "P"
+      ],
+      [
+        "R",
+        "E",
+        "E",
+        "D",
+        "Y"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A nut from an oak tree",
+          "answer": "ACORN",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "To hang down tiredly",
+          "answer": "DROOP",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "Thin and tall like a reed",
+          "answer": "REEDY",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Great enthusiasm or passion",
+          "answer": "ARDOR",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A layer protecting Earth from the sun",
+          "answer": "OZONE",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Cold and chilly",
+          "answer": "NIPPY",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "puzzleIndex": 5,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "C",
+        "U",
+        "T",
+        "E"
+      ],
+      [
+        "U",
+        "#",
+        "S",
+        "#",
+        "N"
+      ],
+      [
+        "D",
+        "A",
+        "U",
+        "N",
+        "T"
+      ],
+      [
+        "I",
+        "#",
+        "R",
+        "#",
+        "E"
+      ],
+      [
+        "T",
+        "A",
+        "P",
+        "I",
+        "R"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Severe or sharp",
+          "answer": "ACUTE",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "To make someone feel afraid",
+          "answer": "DAUNT",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A large, pig-like jungle animal",
+          "answer": "TAPIR",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "An official financial check",
+          "answer": "AUDIT",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "To take power unfairly",
+          "answer": "USURP",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "To go inside",
+          "answer": "ENTER",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "puzzleIndex": 6,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "D",
+        "E",
+        "P",
+        "T"
+      ],
+      [
+        "M",
+        "#",
+        "M",
+        "#",
+        "A"
+      ],
+      [
+        "E",
+        "L",
+        "B",
+        "O",
+        "W"
+      ],
+      [
+        "N",
+        "#",
+        "E",
+        "#",
+        "N"
+      ],
+      [
+        "D",
+        "E",
+        "R",
+        "B",
+        "Y"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Very skilled at something",
+          "answer": "ADEPT",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "The joint in the middle of your arm",
+          "answer": "ELBOW",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A hat or a horse race",
+          "answer": "DERBY",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To make a change or correction",
+          "answer": "AMEND",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A glowing piece of coal or wood",
+          "answer": "EMBER",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A golden-brown color",
+          "answer": "TAWNY",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "puzzleIndex": 7,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "D",
+        "M",
+        "I",
+        "T"
+      ],
+      [
+        "M",
+        "#",
+        "I",
+        "#",
+        "E"
+      ],
+      [
+        "B",
+        "A",
+        "S",
+        "T",
+        "E"
+      ],
+      [
+        "L",
+        "#",
+        "E",
+        "#",
+        "T"
+      ],
+      [
+        "E",
+        "A",
+        "R",
+        "T",
+        "H"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To confess or let someone in",
+          "answer": "ADMIT",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "To pour juices over roasting meat",
+          "answer": "BASTE",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "The planet we live on",
+          "answer": "EARTH",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To walk slowly and leisurely",
+          "answer": "AMBLE",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A person who hates spending money",
+          "answer": "MISER",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "The hard white things in your mouth",
+          "answer": "TEETH",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "puzzleIndex": 8,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "D",
+        "O",
+        "B",
+        "E"
+      ],
+      [
+        "L",
+        "#",
+        "N",
+        "#",
+        "E"
+      ],
+      [
+        "L",
+        "A",
+        "S",
+        "E",
+        "R"
+      ],
+      [
+        "O",
+        "#",
+        "E",
+        "#",
+        "I"
+      ],
+      [
+        "T",
+        "I",
+        "T",
+        "L",
+        "E"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Sun-dried clay bricks",
+          "answer": "ADOBE",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A concentrated beam of light",
+          "answer": "LASER",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "The name of a book or movie",
+          "answer": "TITLE",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To give out a share of something",
+          "answer": "ALLOT",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "The beginning of something",
+          "answer": "ONSET",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Strange and frightening",
+          "answer": "EERIE",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "puzzleIndex": 9,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "D",
+        "O",
+        "R",
+        "E"
+      ],
+      [
+        "G",
+        "#",
+        "U",
+        "#",
+        "A"
+      ],
+      [
+        "L",
+        "A",
+        "T",
+        "E",
+        "R"
+      ],
+      [
+        "O",
+        "#",
+        "E",
+        "#",
+        "L"
+      ],
+      [
+        "W",
+        "O",
+        "R",
+        "M",
+        "Y"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To love deeply",
+          "answer": "ADORE",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "At a time after now",
+          "answer": "LATER",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "Full of worms",
+          "answer": "WORMY",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Shining with a warm light",
+          "answer": "AGLOW",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "On the outside",
+          "answer": "OUTER",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Before the usual time",
+          "answer": "EARLY",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "puzzleIndex": 10,
+    "difficulty": 1,
+    "grid": [
+      [
+        "A",
+        "E",
+        "G",
+        "I",
+        "S"
+      ],
+      [
+        "V",
+        "#",
+        "R",
+        "#",
+        "P"
+      ],
+      [
+        "E",
+        "L",
+        "I",
+        "T",
+        "E"
+      ],
+      [
+        "R",
+        "#",
+        "P",
+        "#",
+        "N"
+      ],
+      [
+        "T",
+        "R",
+        "E",
+        "N",
+        "D"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Protection or sponsorship",
+          "answer": "AEGIS",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "The best or most powerful group",
+          "answer": "ELITE",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A popular style or direction",
+          "answer": "TREND",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To prevent or turn away",
+          "answer": "AVERT",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "To complain",
+          "answer": "GRIPE",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "To use money",
+          "answer": "SPEND",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "puzzleIndex": 1,
+    "difficulty": 2,
+    "grid": [
+      [
+        "A",
+        "G",
+        "O",
+        "R",
+        "A"
+      ],
+      [
+        "R",
+        "#",
+        "C",
+        "#",
+        "N"
+      ],
+      [
+        "G",
+        "L",
+        "E",
+        "A",
+        "N"
+      ],
+      [
+        "O",
+        "#",
+        "A",
+        "#",
+        "O"
+      ],
+      [
+        "N",
+        "I",
+        "N",
+        "N",
+        "Y"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "An ancient Greek marketplace",
+          "answer": "AGORA",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "To gather information slowly",
+          "answer": "GLEAN",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A foolish person",
+          "answer": "NINNY",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A gas used in light bulbs",
+          "answer": "ARGON",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A vast body of salt water",
+          "answer": "OCEAN",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "To irritate someone",
+          "answer": "ANNOY",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "puzzleIndex": 2,
+    "difficulty": 2,
+    "grid": [
+      [
+        "A",
+        "I",
+        "S",
+        "L",
+        "E"
+      ],
+      [
+        "V",
+        "#",
+        "O",
+        "#",
+        "P"
+      ],
+      [
+        "I",
+        "G",
+        "L",
+        "O",
+        "O"
+      ],
+      [
+        "A",
+        "#",
+        "A",
+        "#",
+        "C"
+      ],
+      [
+        "N",
+        "O",
+        "R",
+        "T",
+        "H"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A path between rows of seats",
+          "answer": "AISLE",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A dome-shaped snow shelter",
+          "answer": "IGLOO",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "The direction toward the North Pole",
+          "answer": "NORTH",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Related to birds",
+          "answer": "AVIAN",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "Of or relating to the sun",
+          "answer": "SOLAR",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A long period of time",
+          "answer": "EPOCH",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "puzzleIndex": 3,
+    "difficulty": 2,
+    "grid": [
+      [
+        "A",
+        "L",
+        "I",
+        "A",
+        "S"
+      ],
+      [
+        "U",
+        "#",
+        "V",
+        "#",
+        "T"
+      ],
+      [
+        "G",
+        "L",
+        "O",
+        "B",
+        "E"
+      ],
+      [
+        "U",
+        "#",
+        "R",
+        "#",
+        "R"
+      ],
+      [
+        "R",
+        "A",
+        "Y",
+        "O",
+        "N"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A fake name",
+          "answer": "ALIAS",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A round model of the Earth",
+          "answer": "GLOBE",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A shiny, smooth fabric",
+          "answer": "RAYON",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To predict future events",
+          "answer": "AUGUR",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "The color of an elephant's tusk",
+          "answer": "IVORY",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Strict and serious",
+          "answer": "STERN",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "puzzleIndex": 4,
+    "difficulty": 2,
+    "grid": [
+      [
+        "A",
+        "L",
+        "L",
+        "A",
+        "Y"
+      ],
+      [
+        "N",
+        "#",
+        "A",
+        "#",
+        "I"
+      ],
+      [
+        "T",
+        "E",
+        "R",
+        "S",
+        "E"
+      ],
+      [
+        "I",
+        "#",
+        "V",
+        "#",
+        "L"
+      ],
+      [
+        "C",
+        "H",
+        "A",
+        "R",
+        "D"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To calm fears or worries",
+          "answer": "ALLAY",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "Brief and to the point",
+          "answer": "TERSE",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A leafy green vegetable",
+          "answer": "CHARD",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A funny or silly act",
+          "answer": "ANTIC",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "An insect in its early worm-like stage",
+          "answer": "LARVA",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "To give way or produce",
+          "answer": "YIELD",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "puzzleIndex": 5,
+    "difficulty": 2,
+    "grid": [
+      [
+        "A",
+        "L",
+        "O",
+        "F",
+        "T"
+      ],
+      [
+        "T",
+        "#",
+        "L",
+        "#",
+        "O"
+      ],
+      [
+        "T",
+        "H",
+        "I",
+        "N",
+        "K"
+      ],
+      [
+        "I",
+        "#",
+        "V",
+        "#",
+        "E"
+      ],
+      [
+        "C",
+        "L",
+        "E",
+        "A",
+        "N"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "High up in the air",
+          "answer": "ALOFT",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "To use your brain",
+          "answer": "THINK",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "Free from dirt",
+          "answer": "CLEAN",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "The room at the top of a house",
+          "answer": "ATTIC",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A small salty fruit used in cooking",
+          "answer": "OLIVE",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A small symbol or coin",
+          "answer": "TOKEN",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "puzzleIndex": 6,
+    "difficulty": 2,
+    "grid": [
+      [
+        "B",
+        "A",
+        "L",
+        "M",
+        "Y"
+      ],
+      [
+        "L",
+        "#",
+        "I",
+        "#",
+        "A"
+      ],
+      [
+        "I",
+        "O",
+        "N",
+        "I",
+        "C"
+      ],
+      [
+        "S",
+        "#",
+        "E",
+        "#",
+        "H"
+      ],
+      [
+        "S",
+        "T",
+        "R",
+        "U",
+        "T"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Pleasantly warm and calm",
+          "answer": "BALMY",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "Related to ions or Greek columns",
+          "answer": "IONIC",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "To walk proudly",
+          "answer": "STRUT",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Perfect happiness",
+          "answer": "BLISS",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A large ship or an eye pencil",
+          "answer": "LINER",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A large, fancy sailboat",
+          "answer": "YACHT",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "puzzleIndex": 7,
+    "difficulty": 2,
+    "grid": [
+      [
+        "B",
+        "A",
+        "N",
+        "A",
+        "L"
+      ],
+      [
+        "R",
+        "#",
+        "A",
+        "#",
+        "E"
+      ],
+      [
+        "E",
+        "Y",
+        "I",
+        "N",
+        "G"
+      ],
+      [
+        "A",
+        "#",
+        "V",
+        "#",
+        "A"
+      ],
+      [
+        "K",
+        "N",
+        "E",
+        "E",
+        "L"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Boring and ordinary",
+          "answer": "BANAL",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "Watching carefully",
+          "answer": "EYING",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "To go down on your knees",
+          "answer": "KNEEL",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To smash or a short rest",
+          "answer": "BREAK",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "Too trusting and innocent",
+          "answer": "NAIVE",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Allowed by law",
+          "answer": "LEGAL",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "puzzleIndex": 8,
+    "difficulty": 2,
+    "grid": [
+      [
+        "B",
+        "E",
+        "R",
+        "T",
+        "H"
+      ],
+      [
+        "R",
+        "#",
+        "A",
+        "#",
+        "Y"
+      ],
+      [
+        "A",
+        "M",
+        "P",
+        "L",
+        "E"
+      ],
+      [
+        "S",
+        "#",
+        "I",
+        "#",
+        "N"
+      ],
+      [
+        "H",
+        "Y",
+        "D",
+        "R",
+        "A"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A bunk on a ship or train",
+          "answer": "BERTH",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "More than enough",
+          "answer": "AMPLE",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A many-headed mythical water serpent",
+          "answer": "HYDRA",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Rude and overly confident",
+          "answer": "BRASH",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "Very fast",
+          "answer": "RAPID",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A scavenger animal with a 'laughing' call",
+          "answer": "HYENA",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "puzzleIndex": 9,
+    "difficulty": 2,
+    "grid": [
+      [
+        "B",
+        "E",
+        "S",
+        "E",
+        "T"
+      ],
+      [
+        "R",
+        "#",
+        "T",
+        "#",
+        "R"
+      ],
+      [
+        "A",
+        "G",
+        "O",
+        "N",
+        "Y"
+      ],
+      [
+        "W",
+        "#",
+        "R",
+        "#",
+        "S"
+      ],
+      [
+        "L",
+        "I",
+        "M",
+        "I",
+        "T"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To trouble from all sides",
+          "answer": "BESET",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "Extreme pain or suffering",
+          "answer": "AGONY",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "The farthest point allowed",
+          "answer": "LIMIT",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A noisy fight",
+          "answer": "BRAWL",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A violent weather event",
+          "answer": "STORM",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A secret meeting",
+          "answer": "TRYST",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "puzzleIndex": 10,
+    "difficulty": 2,
+    "grid": [
+      [
+        "B",
+        "E",
+        "V",
+        "E",
+        "L"
+      ],
+      [
+        "L",
+        "#",
+        "I",
+        "#",
+        "A"
+      ],
+      [
+        "A",
+        "R",
+        "S",
+        "O",
+        "N"
+      ],
+      [
+        "N",
+        "#",
+        "O",
+        "#",
+        "C"
+      ],
+      [
+        "D",
+        "I",
+        "R",
+        "G",
+        "E"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "An angled edge",
+          "answer": "BEVEL",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "Setting fire to property on purpose",
+          "answer": "ARSON",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A slow, sad song",
+          "answer": "DIRGE",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Without flavor or interest",
+          "answer": "BLAND",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "The brim of a cap or face shield",
+          "answer": "VISOR",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A long spear",
+          "answer": "LANCE",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "puzzleIndex": 1,
+    "difficulty": 3,
+    "grid": [
+      [
+        "B",
+        "I",
+        "R",
+        "C",
+        "H"
+      ],
+      [
+        "R",
+        "#",
+        "I",
+        "#",
+        "O"
+      ],
+      [
+        "A",
+        "N",
+        "V",
+        "I",
+        "L"
+      ],
+      [
+        "I",
+        "#",
+        "A",
+        "#",
+        "L"
+      ],
+      [
+        "D",
+        "U",
+        "L",
+        "L",
+        "Y"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A type of tree with white bark",
+          "answer": "BIRCH",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A heavy iron block for shaping metal",
+          "answer": "ANVIL",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "Without brightness or interest",
+          "answer": "DULLY",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To weave strands together",
+          "answer": "BRAID",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A competitor",
+          "answer": "RIVAL",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A plant with red berries and prickly leaves",
+          "answer": "HOLLY",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "puzzleIndex": 2,
+    "difficulty": 3,
+    "grid": [
+      [
+        "B",
+        "L",
+        "E",
+        "A",
+        "K"
+      ],
+      [
+        "L",
+        "#",
+        "V",
+        "#",
+        "N"
+      ],
+      [
+        "E",
+        "M",
+        "O",
+        "T",
+        "E"
+      ],
+      [
+        "S",
+        "#",
+        "K",
+        "#",
+        "L"
+      ],
+      [
+        "S",
+        "W",
+        "E",
+        "E",
+        "T"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Cold and unwelcoming",
+          "answer": "BLEAK",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "To show strong emotion",
+          "answer": "EMOTE",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "Having a sugary taste",
+          "answer": "SWEET",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To make holy or wish well",
+          "answer": "BLESS",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "To bring a memory or feeling to mind",
+          "answer": "EVOKE",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Past tense of kneel",
+          "answer": "KNELT",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "puzzleIndex": 3,
+    "difficulty": 3,
+    "grid": [
+      [
+        "B",
+        "L",
+        "O",
+        "A",
+        "T"
+      ],
+      [
+        "U",
+        "#",
+        "P",
+        "#",
+        "O"
+      ],
+      [
+        "I",
+        "N",
+        "E",
+        "P",
+        "T"
+      ],
+      [
+        "L",
+        "#",
+        "R",
+        "#",
+        "A"
+      ],
+      [
+        "D",
+        "R",
+        "A",
+        "W",
+        "L"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To swell up",
+          "answer": "BLOAT",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "Lacking skill",
+          "answer": "INEPT",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A slow way of speaking",
+          "answer": "DRAWL",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To construct something",
+          "answer": "BUILD",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A theatrical play set to music",
+          "answer": "OPERA",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "The complete amount",
+          "answer": "TOTAL",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "puzzleIndex": 4,
+    "difficulty": 3,
+    "grid": [
+      [
+        "B",
+        "L",
+        "U",
+        "N",
+        "T"
+      ],
+      [
+        "L",
+        "#",
+        "T",
+        "#",
+        "R"
+      ],
+      [
+        "U",
+        "L",
+        "T",
+        "R",
+        "A"
+      ],
+      [
+        "S",
+        "#",
+        "E",
+        "#",
+        "C"
+      ],
+      [
+        "H",
+        "O",
+        "R",
+        "S",
+        "E"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "Not sharp, or direct in speech",
+          "answer": "BLUNT",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "Extreme or beyond normal",
+          "answer": "ULTRA",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A large animal you can ride",
+          "answer": "HORSE",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "To turn red with embarrassment",
+          "answer": "BLUSH",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "To speak or completely total",
+          "answer": "UTTER",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A very small amount or faint mark",
+          "answer": "TRACE",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "puzzleIndex": 5,
+    "difficulty": 3,
+    "grid": [
+      [
+        "C",
+        "A",
+        "B",
+        "A",
+        "L"
+      ],
+      [
+        "L",
+        "#",
+        "O",
+        "#",
+        "E"
+      ],
+      [
+        "A",
+        "R",
+        "O",
+        "M",
+        "A"
+      ],
+      [
+        "N",
+        "#",
+        "Z",
+        "#",
+        "R"
+      ],
+      [
+        "G",
+        "R",
+        "E",
+        "E",
+        "N"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A secret group with a hidden plan",
+          "answer": "CABAL",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A pleasant smell",
+          "answer": "AROMA",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "The color of grass",
+          "answer": "GREEN",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A loud ringing sound",
+          "answer": "CLANG",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "Alcoholic drinks",
+          "answer": "BOOZE",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "To gain knowledge",
+          "answer": "LEARN",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "puzzleIndex": 6,
+    "difficulty": 3,
+    "grid": [
+      [
+        "C",
+        "A",
+        "C",
+        "H",
+        "E"
+      ],
+      [
+        "H",
+        "#",
+        "O",
+        "#",
+        "X"
+      ],
+      [
+        "A",
+        "O",
+        "R",
+        "T",
+        "A"
+      ],
+      [
+        "M",
+        "#",
+        "A",
+        "#",
+        "C"
+      ],
+      [
+        "P",
+        "I",
+        "L",
+        "O",
+        "T"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A hidden storage place",
+          "answer": "CACHE",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "The main artery from the heart",
+          "answer": "AORTA",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "Someone who flies an airplane",
+          "answer": "PILOT",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A champion or to chew noisily",
+          "answer": "CHAMP",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "A colorful reef creature",
+          "answer": "CORAL",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Perfectly accurate",
+          "answer": "EXACT",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "puzzleIndex": 7,
+    "difficulty": 3,
+    "grid": [
+      [
+        "C",
+        "A",
+        "D",
+        "E",
+        "T"
+      ],
+      [
+        "E",
+        "#",
+        "U",
+        "#",
+        "R"
+      ],
+      [
+        "D",
+        "I",
+        "S",
+        "C",
+        "O"
+      ],
+      [
+        "A",
+        "#",
+        "K",
+        "#",
+        "L"
+      ],
+      [
+        "R",
+        "O",
+        "Y",
+        "A",
+        "L"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A young trainee in the military",
+          "answer": "CADET",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A style of dance music from the 70s",
+          "answer": "DISCO",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "Related to a king or queen",
+          "answer": "ROYAL",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A sweet-smelling evergreen tree",
+          "answer": "CEDAR",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "Darkening, like at dusk",
+          "answer": "DUSKY",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A mythical creature living under bridges",
+          "answer": "TROLL",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "puzzleIndex": 8,
+    "difficulty": 3,
+    "grid": [
+      [
+        "C",
+        "A",
+        "M",
+        "E",
+        "L"
+      ],
+      [
+        "H",
+        "#",
+        "I",
+        "#",
+        "A"
+      ],
+      [
+        "I",
+        "N",
+        "G",
+        "O",
+        "T"
+      ],
+      [
+        "L",
+        "#",
+        "H",
+        "#",
+        "C"
+      ],
+      [
+        "D",
+        "I",
+        "T",
+        "C",
+        "H"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A desert animal with humps",
+          "answer": "CAMEL",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A block of metal",
+          "answer": "INGOT",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A narrow trench dug in the ground",
+          "answer": "DITCH",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A young person",
+          "answer": "CHILD",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "Power or strength",
+          "answer": "MIGHT",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A fastening device for a door",
+          "answer": "LATCH",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "puzzleIndex": 9,
+    "difficulty": 3,
+    "grid": [
+      [
+        "C",
+        "H",
+        "A",
+        "I",
+        "R"
+      ],
+      [
+        "O",
+        "#",
+        "L",
+        "#",
+        "A"
+      ],
+      [
+        "A",
+        "L",
+        "I",
+        "E",
+        "N"
+      ],
+      [
+        "C",
+        "#",
+        "G",
+        "#",
+        "C"
+      ],
+      [
+        "H",
+        "U",
+        "N",
+        "C",
+        "H"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A seat with a back",
+          "answer": "CHAIR",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A being from another world",
+          "answer": "ALIEN",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "A feeling that something is true",
+          "answer": "HUNCH",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A trainer or a type of carriage",
+          "answer": "COACH",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "To arrange in a straight line",
+          "answer": "ALIGN",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "A large farm for animals",
+          "answer": "RANCH",
+          "length": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "puzzleIndex": 10,
+    "difficulty": 3,
+    "grid": [
+      [
+        "C",
+        "H",
+        "A",
+        "L",
+        "K"
+      ],
+      [
+        "L",
+        "#",
+        "G",
+        "#",
+        "I"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "O",
+        "N"
+      ],
+      [
+        "M",
+        "#",
+        "L",
+        "#",
+        "G"
+      ],
+      [
+        "P",
+        "R",
+        "E",
+        "S",
+        "S"
+      ]
+    ],
+    "clues": {
+      "across": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A soft white rock used for writing",
+          "answer": "CHALK",
+          "length": 5
+        },
+        {
+          "number": 3,
+          "row": 2,
+          "col": 0,
+          "clue": "A group joined together",
+          "answer": "UNION",
+          "length": 5
+        },
+        {
+          "number": 5,
+          "row": 4,
+          "col": 0,
+          "clue": "To push or a printing machine",
+          "answer": "PRESS",
+          "length": 5
+        }
+      ],
+      "down": [
+        {
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "clue": "A small group or cluster",
+          "answer": "CLUMP",
+          "length": 5
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "clue": "Quick and nimble",
+          "answer": "AGILE",
+          "length": 5
+        },
+        {
+          "number": 4,
+          "row": 0,
+          "col": 4,
+          "clue": "Plural of king",
+          "answer": "KINGS",
+          "length": 5
+        }
+      ]
+    }
+  }
+]
