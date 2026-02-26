@@ -7,7 +7,7 @@ A standalone offline puzzle game for kids featuring **Wordle** and **Mini Crossw
 ## Playing the Game
 
 ### Quickest way
-Double-click `PuzzleQuest.html` on the Desktop in **Chrome** or **Safari**.
+**[https://snarayanank2.github.io/word-games/](https://snarayanank2.github.io/word-games/)** — open in any browser, no install needed.
 
 ### Build from source
 ```bash
