@@ -117,8 +117,9 @@ function reducer(state: GameState, action: Action): GameState {
       return { ...state, settings }
     }
     case 'RESET': {
-      const keys = ['player', 'points', 'wordle', 'crossword', 'shop', 'settings']
-      keys.forEach(k => localStorage.removeItem(`pq_${k}`))
+      Object.keys(localStorage)
+        .filter(k => k.startsWith('pq_'))
+        .forEach(k => localStorage.removeItem(k))
       return defaultState
     }
     default:
