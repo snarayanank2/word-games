@@ -1,4 +1,4 @@
-import React, { useEffect, useCallback } from 'react'
+import React, { useEffect, useCallback, useState } from 'react'
 import { useGame } from '../../context/GameContext'
 import { useWordle } from '../../hooks/useWordle'
 import { calcWordleScore } from '../../utils/scoring'
@@ -29,11 +29,23 @@ export function WordleGame({ onNavigate, onSettings }: WordleGameProps) {
   } = useWordle(puzzleIndex, tier)
 
   const { showToast, ToastComponent } = useToast()
+  const [showComplete, setShowComplete] = useState(false)
 
   // Show error toast
   useEffect(() => {
     if (errorMessage) showToast(errorMessage)
   }, [errorMessage, showToast])
+
+  // Delay popup: for a win, wait for bounce to finish (~1s) before showing modal
+  useEffect(() => {
+    if (gameStatus === 'won') {
+      const t = setTimeout(() => setShowComplete(true), 1000)
+      return () => clearTimeout(t)
+    } else if (gameStatus === 'lost') {
+      const t = setTimeout(() => setShowComplete(true), 400)
+      return () => clearTimeout(t)
+    }
+  }, [gameStatus])
 
   // Handle game end
   const handleComplete = useCallback(() => {
@@ -83,7 +95,6 @@ export function WordleGame({ onNavigate, onSettings }: WordleGameProps) {
     return () => window.removeEventListener('keydown', handler)
   }, [submitGuess, deleteLetter, addLetter])
 
-  const showComplete = gameStatus !== 'playing'
   const score = showComplete ? calcWordleScore(guessCount, tier, wordle.streak, gameStatus === 'won') : 0
 
   return (
