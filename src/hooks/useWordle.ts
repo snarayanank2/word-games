@@ -188,13 +188,17 @@ export function useWordle(puzzleIndex: number, tier: Tier): UseWordleReturn {
       const lost = !won && nextRow >= MAX_GUESSES
 
       if (won) {
-        // Wait for all tile flips to finish before bouncing and marking won.
-        // Last tile (index 4) starts flipping at delay 1200ms and takes 500ms → 1700ms total.
+        // Sequence: flip all tiles → bounce → show popup
+        // Flip: last tile (index 4) starts at 1200ms delay + 500ms = 1700ms total.
         const flipDone = (WORD_LENGTH - 1) * 300 + 500 + 50 // ~1750ms
+        // Bounce: last tile (index 4) has 400ms delay + 600ms duration = 1000ms total.
+        const bounceDone = (WORD_LENGTH - 1) * 100 + 600 + 50 // ~1050ms
         setTimeout(() => {
           setIsBouncing(true)
-          setTimeout(() => setIsBouncing(false), 1000)
-          setGameStatus('won')
+          setTimeout(() => {
+            setIsBouncing(false)
+            setGameStatus('won')  // fire AFTER bounce fully completes
+          }, bounceDone)
         }, flipDone)
       } else if (lost) {
         setGameStatus('lost')

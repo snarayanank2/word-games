@@ -39,7 +39,7 @@ export function WordleGame({ onNavigate, onSettings }: WordleGameProps) {
   // Delay popup: for a win, wait for bounce to finish (~1s) before showing modal
   useEffect(() => {
     if (gameStatus === 'won') {
-      const t = setTimeout(() => setShowComplete(true), 1000)
+      const t = setTimeout(() => setShowComplete(true), 150)
       return () => clearTimeout(t)
     } else if (gameStatus === 'lost') {
       const t = setTimeout(() => setShowComplete(true), 400)
