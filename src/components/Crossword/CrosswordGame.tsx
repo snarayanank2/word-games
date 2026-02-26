@@ -1,4 +1,4 @@
-import React, { useEffect, useCallback } from 'react'
+import React, { useEffect, useCallback, useRef } from 'react'
 import { useGame } from '../../context/GameContext'
 import { useCrossword } from '../../hooks/useCrossword'
 import { calcCrosswordScore } from '../../utils/scoring'
@@ -28,6 +28,14 @@ export function CrosswordGame({ onNavigate, onSettings }: CrosswordGameProps) {
   } = useCrossword(puzzleIndex, tier)
 
   const { showToast, ToastComponent } = useToast()
+  const inputRef = useRef<HTMLInputElement>(null)
+
+  // Focus hidden input when a cell is selected to trigger mobile keyboard
+  useEffect(() => {
+    if (selectedCell) {
+      inputRef.current?.focus()
+    }
+  }, [selectedCell])
 
   const handleComplete = useCallback(() => {
     const score = calcCrosswordScore(errors, timeSeconds, hintsUsed, tier, crossword.streak, true)
@@ -92,6 +100,25 @@ export function CrosswordGame({ onNavigate, onSettings }: CrosswordGameProps) {
 
   return (
     <div className="min-h-screen bg-[var(--bg)] flex flex-col">
+      {/* Hidden input to trigger mobile keyboard when a cell is selected */}
+      <input
+        ref={inputRef}
+        className="sr-only"
+        inputMode="text"
+        autoCapitalize="none"
+        autoComplete="off"
+        autoCorrect="off"
+        spellCheck={false}
+        value=""
+        onChange={e => {
+          const val = e.target.value
+          if (/^[a-zA-Z]$/.test(val)) inputLetter(val.toUpperCase())
+        }}
+        onKeyDown={e => {
+          if (e.key === 'Backspace') { e.preventDefault(); deleteLetter() }
+          else if (e.key === 'Enter') { e.preventDefault() }
+        }}
+      />
       <Header
         title={`Crossword #${puzzleIndex}`}
         onHome={() => onNavigate('home')}

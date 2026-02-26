@@ -25,9 +25,9 @@ interface WordleKeyboardProps {
 
 export function WordleKeyboard({ keyboardMap, onKey, onDelete, onEnter }: WordleKeyboardProps) {
   return (
-    <div className="flex flex-col items-center gap-1.5 w-full max-w-md">
+    <div className="flex flex-col items-center gap-1 w-full px-1">
       {ROWS.map((row, ri) => (
-        <div key={ri} className="flex gap-1.5 justify-center">
+        <div key={ri} className="flex gap-1 w-full justify-center">
           {row.map(key => {
             const state = keyboardMap[key] ?? 'empty'
             const isWide = key === 'ENTER' || key === '⌫'
@@ -41,9 +41,9 @@ export function WordleKeyboard({ keyboardMap, onKey, onDelete, onEnter }: Wordle
                   else onKey(key)
                 }}
                 className={`
-                  h-14 rounded font-bold text-sm border select-none
+                  h-12 rounded font-bold text-sm border select-none
                   active:scale-95 transition-transform
-                  ${isWide ? 'px-2 min-w-[52px] text-xs' : 'w-9'}
+                  ${isWide ? 'px-1 flex-[1.5] text-xs' : 'flex-1'}
                   ${KEY_STATE_CLASSES[state as LetterState] ?? KEY_STATE_CLASSES.empty}
                 `}
               >
