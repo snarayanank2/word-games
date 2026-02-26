@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- Warm cream background -->
+  <rect width="1200" height="630" fill="#f8f0e8"/>
+
+  <!-- Decorative tile grid (left side) -->
+  <!-- Col 1 -->
+  <rect x="60"  y="120" width="80" height="80" rx="8" fill="#538d4e"/>
+  <rect x="60"  y="215" width="80" height="80" rx="8" fill="#b59f3b"/>
+  <rect x="60"  y="310" width="80" height="80" rx="8" fill="#818384"/>
+  <rect x="60"  y="405" width="80" height="80" rx="8" fill="#538d4e"/>
+  <!-- Col 2 -->
+  <rect x="155" y="120" width="80" height="80" rx="8" fill="#818384"/>
+  <rect x="155" y="215" width="80" height="80" rx="8" fill="#538d4e"/>
+  <rect x="155" y="310" width="80" height="80" rx="8" fill="#b59f3b"/>
+  <rect x="155" y="405" width="80" height="80" rx="8" fill="#818384"/>
+  <!-- Col 3 -->
+  <rect x="250" y="120" width="80" height="80" rx="8" fill="#b59f3b"/>
+  <rect x="250" y="215" width="80" height="80" rx="8" fill="#818384"/>
+  <rect x="250" y="310" width="80" height="80" rx="8" fill="#538d4e"/>
+  <rect x="250" y="405" width="80" height="80" rx="8" fill="#b59f3b"/>
+
+  <!-- Right side: text -->
+  <text x="400" y="260" font-family="Georgia, serif" font-size="96" font-weight="bold" fill="#3d2c1e">Puzzle Quest</text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="40" fill="#7a6a5a">Wordle &amp; Mini Crossword</text>
+  <text x="400" y="390" font-family="Arial, sans-serif" font-size="36" fill="#9a8a7a">100 puzzles each · Points &amp; shop</text>
+  <text x="400" y="460" font-family="Arial, sans-serif" font-size="32" fill="#b59f3b" font-weight="bold">snarayanank2.github.io/word-games</text>
+</svg>
