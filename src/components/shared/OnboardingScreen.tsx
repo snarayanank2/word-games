@@ -19,7 +19,8 @@ export function OnboardingScreen({ onDone }: OnboardingScreenProps) {
   }
 
   return (
-    <div className="min-h-screen bg-[var(--bg)] flex flex-col items-center justify-center px-6">
+    <div className="min-h-screen bg-[var(--bg)] flex flex-col px-6">
+      <div className="flex-1 flex items-center justify-center">
       <div className="max-w-sm w-full text-center flex flex-col gap-8">
         <div>
           <h1 className="text-4xl font-bold text-[var(--text)] mb-2" style={{ fontFamily: 'Georgia, serif' }}>
@@ -57,6 +58,19 @@ export function OnboardingScreen({ onDone }: OnboardingScreenProps) {
           </button>
         </div>
       </div>
+      </div>
+
+      <footer className="text-center py-4 text-xs text-[var(--text-secondary)]">
+        Made by Siva &nbsp;·&nbsp;{' '}
+        <a
+          href="https://github.com/snarayanank2/word-games"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-2 hover:text-[var(--text)] transition-colors"
+        >
+          GitHub
+        </a>
+      </footer>
     </div>
   )
 }
