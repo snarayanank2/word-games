@@ -71,6 +71,18 @@ export function HomeScreen({ onNavigate }: HomeScreenProps) {
           <NavButton emoji="📊" label="Stats" onClick={() => onNavigate('stats')} />
         </div>
       </main>
+
+      <footer className="text-center py-4 text-xs text-[var(--text-secondary)]">
+        Made by Siva &nbsp;·&nbsp;{' '}
+        <a
+          href="https://github.com/snarayanank2/word-games"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-2 hover:text-[var(--text)] transition-colors"
+        >
+          GitHub
+        </a>
+      </footer>
     </div>
   )
 }
