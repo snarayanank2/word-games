@@ -9,6 +9,7 @@ A standalone offline puzzle game for kids featuring **Wordle** and **Mini Crossw
 ### Quickest way
 **[https://snarayanank2.github.io/word-games/](https://snarayanank2.github.io/word-games/)** — open in any browser, no install needed.
 
+
 ### Build from source
 ```bash
 npm install
