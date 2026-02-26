@@ -29,7 +29,7 @@ export function WordleGrid({ rows, isShaking, isBouncing, currentRow }: WordleGr
               key={ci}
               tile={tile}
               delay={ci * 300}
-              bounce={isBouncing && ri === currentRow - 1}
+              bounce={isBouncing && ri === currentRow}
               bounceDelay={ci * 100}
             />
           ))}

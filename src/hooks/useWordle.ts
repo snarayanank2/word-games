@@ -207,9 +207,11 @@ export function useWordle(puzzleIndex: number, tier: Tier): UseWordleReturn {
     }, WORD_LENGTH * 300 + 100)
   }, [gameStatus, currentInput, currentRow, targetWord, showError])
 
-  // Show current input in the current row
+  // Show current input in the current row.
+  // Only override when the player is actively typing (currentInput non-empty);
+  // once it's cleared after a reveal the actual row state should show through.
   const displayRows = rows.map((row, ri) => {
-    if (ri !== currentRow || gameStatus !== 'playing') return row
+    if (ri !== currentRow || gameStatus !== 'playing' || currentInput.length === 0) return row
     return row.map((cell, ci) => ({
       letter: currentInput[ci] ?? '',
       state: (currentInput[ci] ? 'tbd' : 'empty') as LetterState,
